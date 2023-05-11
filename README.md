@@ -1,4 +1,4 @@
-# pokedex_js
+# Pokédex com JavaScript
 Pokédex com Javascript e Páginação
 
 
